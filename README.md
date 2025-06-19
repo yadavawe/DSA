@@ -1,1 +1,2 @@
-Data Science and Algorithm Labs
+# Data Science and Algorithm
+Labs of DSA
